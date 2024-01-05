@@ -1,5 +1,5 @@
 
-[![MasterHead]https://www.itl.cat/wallview/owRiJ_original-resolution-popular-capas-para-youtube-2560-x/
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
