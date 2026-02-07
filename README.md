@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/bhushan_2110" target="blank"><img src="https://img.shields.io/twitter/follow/bhushan_2110?logo=twitter&style=for-the-badge" alt="bhushan_2110" /></a> </p>
 
-- 🌱 I’m currently learning **PHP,java,python**
-
 - 💬 Ask me about **Technical knowledge**
 
 <h3 align="left">Connect with me:</h3>
